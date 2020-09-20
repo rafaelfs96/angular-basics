@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta azul",
+      "price": 5.89
+    },
+    {
+      "name": "celular",
+      "price": 2000,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Samsung S25+",
+      "price": 5000.89
+    },
+    {
+      "name": "geladeira",
+      "price": 5000.55,
+      "id": 4
+    }
+  ]
+}

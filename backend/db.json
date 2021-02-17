@@ -17,8 +17,13 @@
     },
     {
       "name": "geladeira",
-      "price": 5000.55,
+      "price": "3000.99",
       "id": 4
+    },
+    {
+      "name": "formulario",
+      "price": "9.99",
+      "id": 5
     }
   ]
 }
